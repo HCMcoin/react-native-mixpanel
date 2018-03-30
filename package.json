@@ -1,6 +1,6 @@
 {
   "name": "mixpanel",
-  "description": "A simple server-side API for mixpanel",
+  "description": "A simple react-native API for mixpanel",
   "keywords": [
     "mixpanel",
     "analytics",
